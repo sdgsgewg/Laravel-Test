@@ -7,6 +7,7 @@
 
     <title>Laravel</title>
     <h2>Halo Nama Saya Upin</h2>
+    <h2>Ini Adik Sya Ipin</h2>
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
